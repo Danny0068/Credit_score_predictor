@@ -14,11 +14,10 @@ This repository contains a **credit score classification project** using **Rando
 │-- 📁 notebooks/          # Jupyter Notebooks for exploration & model building
 │-- 📁 models/             # Trained model files (if applicable)
 │-- 📁 results/            # Model performance reports & visualizations
-│-- 📜 Model_Comparison_Results.docx  # Detailed documentation
+│-- 📜 Model_Comparison_Results.json # Detailed documentation
 │-- 📜 README.md           # Project overview & instructions
 │-- 📜 requirements.txt    # Required libraries
 │-- 📜 train_model.py      # Python script for training the models
-│-- 📜 evaluate_model.py   # Script for evaluating models
 ```
 
 ## 📊 Data Description
