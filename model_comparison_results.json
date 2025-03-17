@@ -1,0 +1,39 @@
+{
+    "Random Forest": {
+      "Accuracy": 0.77,
+      "Precision": {
+        "Class 0": 0.74,
+        "Class 1": 0.79,
+        "Class 2": 0.80
+      },
+      "Recall": {
+        "Class 0": 0.89,
+        "Class 1": 0.80,
+        "Class 2": 0.62
+      },
+      "F1-Score": {
+        "Class 0": 0.81,
+        "Class 1": 0.79,
+        "Class 2": 0.70
+      }
+    },
+    "XGBoost": {
+      "Accuracy": 0.80,
+      "Precision": {
+        "Class 0": 0.79,
+        "Class 1": 0.83,
+        "Class 2": 0.79
+      },
+      "Recall": {
+        "Class 0": 0.91,
+        "Class 1": 0.77,
+        "Class 2": 0.72
+      },
+      "F1-Score": {
+        "Class 0": 0.84,
+        "Class 1": 0.80,
+        "Class 2": 0.75
+      }
+    }
+  }
+  
