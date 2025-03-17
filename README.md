@@ -84,10 +84,10 @@ Here are some key visualizations from the project:
 ---
 
 ## 📝 Author
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [Your GitHub](https://github.com/your-username)
+Deepak Shrivas  
+📧 Email: dannyshrivas31@gmail.com 
+🔗 LinkedIn: Deepak Shrivas(https://www.linkedin.com/in/deepak-shrivas)
+🐙 GitHub: Danny0068(https://github.com/Danny0068)
 
 ---
 
